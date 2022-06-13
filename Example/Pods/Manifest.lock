@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PLPLTest: 322afc2f19701552a740bd9f24b4bd7deeb2fe54
+  PLPLTest: b8dafec5729d0cd44edf4b0ec261cff58cb2e223
 
 PODFILE CHECKSUM: d2ef1db7eb6bca85c4991605315f01ea4a57a0ed
 

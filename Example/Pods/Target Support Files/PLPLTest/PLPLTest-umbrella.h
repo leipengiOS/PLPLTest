@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "PLTest.h"
 
 FOUNDATION_EXPORT double PLPLTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char PLPLTestVersionString[];

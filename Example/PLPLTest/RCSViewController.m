@@ -7,7 +7,7 @@
 //
 
 #import "RCSViewController.h"
-
+#import "PLTest.h"
 @interface RCSViewController ()
 
 @end
@@ -17,7 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
+    [PLTest test];
 }
 
 - (void)didReceiveMemoryWarning
