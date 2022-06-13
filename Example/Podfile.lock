@@ -1,0 +1,16 @@
+PODS:
+  - PLPLTest (0.1.0)
+
+DEPENDENCIES:
+  - PLPLTest (from `../`)
+
+EXTERNAL SOURCES:
+  PLPLTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLPLTest: 322afc2f19701552a740bd9f24b4bd7deeb2fe54
+
+PODFILE CHECKSUM: d2ef1db7eb6bca85c4991605315f01ea4a57a0ed
+
+COCOAPODS: 1.11.3

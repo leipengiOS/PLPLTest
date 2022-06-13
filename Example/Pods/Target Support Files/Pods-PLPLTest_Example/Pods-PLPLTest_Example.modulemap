@@ -1,0 +1,6 @@
+framework module Pods_PLPLTest_Example {
+  umbrella header "Pods-PLPLTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

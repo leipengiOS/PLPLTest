@@ -1,0 +1,6 @@
+framework module PLPLTest {
+  umbrella header "PLPLTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
