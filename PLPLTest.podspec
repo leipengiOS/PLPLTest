@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PLPLTest'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'PLPLTest of RongCloud Scene.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license      = { :type => "Copyright", :text => "Copyright 2022 RongCloud" }
   s.author           = { '彭蕾' => 'penglei1@rongcloud.cn' }
-  s.source           = { :git => 'git@github.com:penglei1RC/PLPLTest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:leipengiOS/PLPLTest.git', :tag => s.version.to_s }
 
   s.social_media_url = 'https://www.rongcloud.cn/devcenter'
 
